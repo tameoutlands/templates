@@ -1,10 +1,15 @@
-100 STRENGTH | 100 DEXTERITY | 25 INTELLIGENCE
+//template stats
 
-120 ANIMAL TAMING
-120 ANIMAL LORE
-100 HERDING
-100 ARCHERY/SWORDS/FENCING/MACING
-100 TACTICS
-80 ARMS LORE
-60 VETRINARY
-40 ALCHEMY
+100 str
+25 int
+100 dex
+
+//template skills
+
+120 animtal taming
+120 animal lore
+100 archery/swords/fencing/macing (pick one)
+100 tactics
+80 arms lore
+60 vetrinary
+40 alchemy
